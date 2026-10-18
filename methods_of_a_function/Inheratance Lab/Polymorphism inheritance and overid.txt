@@ -1,0 +1,18 @@
+/**
+ * @author James McGuigan
+ * CS 5210 Programming 2
+ * Prof.B
+ */
+Polymorphism inheritance and overiding 
+
+Polymorphism:
+
+Polymorphism is like a class that different things can use for it this allows for customization. This helps in making functions using the same Parent class have different actions. in a function different things can fill the method details while sticking to the same overall structure while being different.
+
+Inheritance:
+
+Inheritance is about passing down characteristics from a main thing to others, it allows subclasses to get qualities from the superclass. The new type can then change or add things as needed.
+
+Overriding:
+
+Overriding is changing from the super class from the sub class creating a standard in the sub for the subclass seperate from the superclass. 
