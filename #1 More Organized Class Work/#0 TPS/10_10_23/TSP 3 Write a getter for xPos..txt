@@ -1,0 +1,12 @@
+TSP 3: Write a getter for xPos.
+
+Getters Method
+ 
+
+Public int GetXPos ( )
+
+{
+
+Return xPos;
+
+}
